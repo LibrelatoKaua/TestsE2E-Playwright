@@ -14,7 +14,7 @@ In order to execute this project you must follow the steps below:
 1. Run `npm run ci` to execute the entire test suite
 1. Run `npm run show-report` to visualize the reports
 
-All execution artifacts can be found in `./artifacts`, if you want to remove these files run `npm run clean`.
+All execution artifacts can be found in `./artifacts`, if you want to remove these files run `npm run clean`
 
 ## Project Structure
 
